@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FormulaE.us" tvg-name="Formula 1 TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1TV_logo.svg/320px-F1TV_logo.svg.png" group-title="F1 Direct Streams",Formula 1 TV (US) — Free & Permanent
+https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyF1" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Sports_F1.png/150px-Sky_Sports_F1.png" group-title="F1 Direct Streams",Sky Sports F1
+https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8?skf1
+
+#EXTINF:-1 tvg-id="SkyF1UHD" tvg-name="Sky Sports F1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Sports_F1.png/150px-Sky_Sports_F1.png" group-title="F1 Direct Streams",Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="SkyF1FHD" tvg-name="Sky Sports F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Sports_F1.png/150px-Sky_Sports_F1.png" group-title="F1 Direct Streams",Sky Sports F1 FHD
+https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-id="SkyF1TS" tvg-name="Sky Sports F1 (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Sports_F1.png/150px-Sky_Sports_F1.png" group-title="F1 Direct Streams",Sky Sports F1 (UK)
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/78149.ts
+

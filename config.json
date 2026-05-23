@@ -1,0 +1,12 @@
+{
+  "spider": "",
+  "lives": [
+    {
+      "name": "F1 Live",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/MetalDudesMusic/FTQ1/main/TQFL1.m3u",
+      "epg": "https://www.epgshare01.online/epg/epgshare01.xml.gz",
+      "logo": ""
+    }
+  ]
+}
